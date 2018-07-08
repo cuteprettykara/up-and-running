@@ -1,0 +1,9 @@
+{
+  "name": "up-and-running",
+  "main": "index.js",
+  "assets": [],
+  "styles": ["fittable.css", "panelsSample2.css"],
+  "devAssets": [],
+  "moduleDir": "src",
+  "dependencies": {}
+}
